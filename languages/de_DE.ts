@@ -61,7 +61,7 @@
     <message id="ytplayer-label-created-on">
         <source>Created on</source>
         <extracomment>Label for youtube channel creation date field</extracomment>
-        <translation>Erstell auf</translation>
+        <translation>Erstellt am</translation>
     </message>
     <message id="ytplayer-label-video-count">
         <source>Video count</source>
